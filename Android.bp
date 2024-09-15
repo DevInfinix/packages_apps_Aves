@@ -1,0 +1,11 @@
+android_app_import {
+	name: "Aves Libre",
+	owner: "Aves Libre",
+	apk: "aveslibre-1.11.10.apk",
+	preprocessed: true,
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	product_specific: true,
+}
