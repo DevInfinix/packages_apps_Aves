@@ -1,6 +1,6 @@
 android_app_import {
-	name: "Aves Libre",
-	owner: "Aves Libre",
+	name: "Aves",
+	owner: "Aves",
 	apk: "aveslibre-1.11.10.apk",
 	preprocessed: true,
 	presigned: true,
